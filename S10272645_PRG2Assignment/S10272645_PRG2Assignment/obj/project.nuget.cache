@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "q3FkGn4NcFQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\findn\\Downloads\\programming-assignment-2026-main\\programming-assignment-2026-main\\S10272645_PRG2Assignment\\S10272645_PRG2Assignment\\S10272645_PRG2Assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\findn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.23\\microsoft.windowsdesktop.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\findn\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.23\\microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\findn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.23\\microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\findn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.23\\microsoft.netcore.app.host.win-x64.8.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
